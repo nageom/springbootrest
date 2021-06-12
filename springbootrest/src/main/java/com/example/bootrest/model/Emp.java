@@ -31,11 +31,6 @@ public class Emp {
 
 	
 
-	public Emp(int i, String string, int j) {
-		empno = i;
-		ename=string;
-		sal=j;
-	}
 
 	public Integer getEmpno() {
 		return empno;
